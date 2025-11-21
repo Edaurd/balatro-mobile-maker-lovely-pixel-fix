@@ -1,5 +1,5 @@
 # Includes Pixel Fix and Lovely for modding
-This fork merges the Pixel CRT shader fix (removes the black void while keeping most of the shader; tested on Pixel 7 Pro and 10 Pro Fold, thanks to [siameseneko-dev](https://github.com/siameseneko-dev/)) with the Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak)). It also enables `t.externalstorage` in `balatro/main.lua` to allow access to the mods folder.
+This fork merges the Pixel CRT shader fix (removes the black void while keeping most of the shader; tested on Pixel 7 Pro and 10 Pro Fold, thanks to [siameseneko-dev](https://github.com/siameseneko-dev/)) with the Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak)). ~~It also enables `t.externalstorage` in `balatro/main.lua` to allow access to the mods folder.~~ nevermind, seems like kodenamekrak already added that
 
 # Original ReadMe:
 
