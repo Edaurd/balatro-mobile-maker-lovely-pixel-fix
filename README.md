@@ -1,12 +1,7 @@
+# Includes Pixel Fix and Lovely for modding
+This fork merges the Pixel CRT shader fix (removes the black void while keeping most of the shader; tested on Pixel 7 Pro and 10 Pro Fold, thanks to [siameseneko-dev](https://github.com/siameseneko-dev/)) with the Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak)). It also enables `t.externalstorage` in `balatro/main.lua` to allow access to the mods folder.
 
-# Includes Pixel fix and Lovely for modding
-This is a fork that fixes the CRT shader for Google Pixel (and possibly other) phones, removing the black void while retaining (almost) all of the CRT shader by removing the noise function. Tested on a Pixel 7 Pro and 10 Pro Fold (thanks to [siameseneko-dev](https://github.com/siameseneko-dev/))
-
-This fork also includes Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak))
-
-I merely combined the two forks into one and added a option to enable "t.externalstorage" in balatro/main.lua, which i read somewhere is needed to access the folder to add your mods
-
-# Original Readme
+# Original ReadMe:
 
 The goal of this project is to allow *Balatro* fans to play *Balatro* on their mobile devices. This project provides a **NON-PIRACY** avenue for players to do so, by converting their *Steam* copy of *Balatro* to a mobile app. Balatro Mobile Maker also supports automatically transferring your saves back and forth between your *Steam* copy of the game and your mobile device (save transfer features only officially available on Windows and Android, for now).
 
