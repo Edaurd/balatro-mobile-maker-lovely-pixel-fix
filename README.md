@@ -4,7 +4,7 @@ This is a fork that fixes the CRT shader for Google Pixel (and possibly other) p
 
 This fork also includes Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak))
 
-I merely combined the two forks into one and added a option to enable "t.externalstorage" in main.lua and compiled it
+I merely combined the two forks into one and added a option to enable "t.externalstorage" in balatro/main.lua, which i read somewhere is needed to access the folder to add your mods
 
 # Original Readme
 
