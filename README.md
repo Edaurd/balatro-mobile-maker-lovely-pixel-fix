@@ -2,9 +2,9 @@
 # Includes Pixel fix and Lovely for modding
 This is a fork that fixes the CRT shader for Google Pixel (and possibly other) phones, removing the black void while retaining (almost) all of the CRT shader by removing the noise function. Tested on a Pixel 7 Pro and 10 Pro Fold (thanks to [siameseneko-dev](https://github.com/siameseneko-dev/))
 
-This fork also includes Lovely (thanks to [kodenamekrak](https://github.com/kodenamekrak))
+This fork also includes Lovely Injector for modding (thanks to [kodenamekrak](https://github.com/kodenamekrak))
 
-I merely combined the two forks into one and compiled it
+I merely combined the two forks into one and added a option to enable "t.externalstorage" in main.lua and compiled it
 
 # Original Readme
 
